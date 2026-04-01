@@ -8,7 +8,7 @@ This project is a comprehensive pipeline for Alzheimer’s detection. It compare
 
 ## 📂 Project Structure & Workflow
 
-To replicate the results, run the notebooks in the following order:
+To replicate the results, run and the notebooks in the following order:
 
 1. **01_data_preprocessing.ipynb**: Handles image resizing, normalization, and class mapping.
 2. **02_ml_models.ipynb**: Uses **Random Forest** on flattened image data as a baseline.
